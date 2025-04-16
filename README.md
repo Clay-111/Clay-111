@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋👋👋
 
-<!--
-**Clay-111/Clay-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning enthusiast** with a strong interest in **research**, particularly in the areas of **distributed and federated training**, **communication-efficient model optimization**, and **scalable learning systems**.
 
-Here are some ideas to get you started:
+I enjoy working on projects that bridge the gap between **theory and systems**, focusing on how ML models can be trained efficiently across **heterogeneous edge and cloud environments**. My work involves designing algorithms that tackle **non-IID data, resource heterogeneity**, and **scalability challenges** in collaborative learning, especially within **IoT ecosystems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently exploring:
+- 🧿 Digital Twin Technology for IoT
+- ✨ Federated & Split Learning
+- ⚙️ System-aware ML optimization
+- 📶 Communication-efficient training
+- 📚 Applying ML in real-world, distributed scenarios
+
+
