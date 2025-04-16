@@ -1,4 +1,4 @@
-## Hi there 👋👋👋
+## Hi, I'm Himel 👋
 
 I'm a **Machine Learning enthusiast** with a strong interest in **research**, particularly in the areas of **distributed and federated training**, **communication-efficient model optimization**, and **scalable learning systems**.
 
