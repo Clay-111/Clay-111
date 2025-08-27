@@ -1,6 +1,6 @@
 ## Hi, I'm Himel 👋
 
-I'm a **Machine Learning enthusiast** with a strong interest in **research**, particularly in the areas of **distributed and federated training**, **communication-efficient model optimization**, and **scalable learning systems**.
+I'm a Machine Learning **researcher & engineer** with hands-on experience in areas including—but not limited to—**distributed training, model optimization, human–computer interaction, and LLMs for NLP, smart IoT, and healthcare applications**. 
 
 I enjoy bridging the gap between **theory and systems**, and I thrive on building **scalable frameworks** that tackle real-world problems and drive innovative AI projects.
 
