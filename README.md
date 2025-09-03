@@ -1,6 +1,6 @@
 ## Hi, I'm Himel 👋
 
-I'm a Machine Learning **researcher & engineer** with hands-on experience in areas including—but not limited to—**workflow automation, distributed training, model optimization, and LLMs for NLP, RAG pipelines, smart IoT, and healthcare applications**. 
+I'm a Machine Learning **researcher & engineer** with hands-on experience in areas including—but not limited to—**workflow automation, distributed training, model optimization,** and **LLMs for NLP, RAG pipelines, smart IoT, and healthcare applications**. 
 
 I enjoy bridging the gap between **theory and systems**, and I thrive on building **scalable frameworks** that tackle real-world problems while driving innovative AI projects.
 
