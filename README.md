@@ -5,7 +5,7 @@ I'm a Machine Learning **researcher & engineer** with hands-on experience in are
 I enjoy bridging the gap between **theory and systems**, and I thrive on building **scalable frameworks** that tackle real-world problems while driving innovative AI projects.
 
 I'm currently exploring:
-- 🤖 LLMs for NLP and generative AI
+- 🤖 LLMs for NLP and GenAI
 - 🧿 Digital Twin for real-time heterogeneous IoT and edge intelligence
 - ✨ Federated & Split Learning
 - ⚙️ System-aware ML optimization
